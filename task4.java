@@ -40,7 +40,7 @@ public class task4
                       
         System.out.print("money to be deposited:");  
          deposit = sc.nextInt();  
-        balance = bal + deposit;  
+        bal = bal + deposit;  
         System.out.println("Money has been successfully depsited");  
         System.out.println("");  
         break;  
